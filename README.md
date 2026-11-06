@@ -6,7 +6,7 @@
 
 ![凌霄机器人比赛现场，BCCHIT 水印](docs/assets/hero.jpg)
 
-**[▶ 比赛任务视频（有声）](docs/assets/task.mp4)** · [视觉与现场联调](docs/assets/vision.mp4) · [机械臂运动](docs/assets/arm-1.mp4) · [夹取演示](docs/assets/arm-2.mp4)
+**[▶ 比赛任务视频（有声）](https://github.com/user-attachments/assets/d54db21a-9a33-40c5-b152-76dbe2016c52)** · [视觉与现场联调](https://github.com/user-attachments/assets/3c009924-9d32-4cef-b4c0-1fe777905184) · [机械臂运动](https://github.com/user-attachments/assets/e2d67d85-cef9-4c09-af38-ca179065fac2) · [夹取演示](https://github.com/user-attachments/assets/619be8fb-f17c-4808-a8f3-073d6468ef9c)
 
 ## 项目成果
 
@@ -53,11 +53,11 @@ CyberGear 电机与执行机构
 
 ## 实机演示
 
-![比赛任务短片，BCCHIT 水印](docs/assets/demo.gif)
+https://github.com/user-attachments/assets/d54db21a-9a33-40c5-b152-76dbe2016c52
 
 | 视觉与现场联调 | 机械臂夹取 |
 | --- | --- |
-| [![现场联调](docs/assets/vision.jpg)](docs/assets/vision.mp4) | [![机械臂夹取](docs/assets/arm-2.jpg)](docs/assets/arm-2.mp4) |
+| [![现场联调](docs/assets/vision.jpg)](https://github.com/user-attachments/assets/3c009924-9d32-4cef-b4c0-1fe777905184) | [![机械臂夹取](docs/assets/arm-2.jpg)](https://github.com/user-attachments/assets/619be8fb-f17c-4808-a8f3-073d6468ef9c) |
 
 ## 阅读与运行
 
